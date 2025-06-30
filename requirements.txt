@@ -6,5 +6,4 @@ tensorflow-cpu==2.11.0
 keras-tuner==1.4.7
 openpyxl==3.1.5
 seaborn==0.13.2
-protobuf==3.19.6
 h5py==3.8.0
