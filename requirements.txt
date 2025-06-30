@@ -1,8 +1,10 @@
-pandas
+pandas==2.3.0
 numpy==1.24.3
-scikit-learn
-matplotlib
+scikit-learn==1.7.0
+matplotlib==3.10.3
 tensorflow-cpu==2.11.0
-keras-tuner
-openpyxl
-seaborn
+keras-tuner==1.4.7
+openpyxl==3.1.5
+seaborn==0.13.2
+protobuf==3.19.6
+h5py==3.8.0
