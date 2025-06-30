@@ -7,3 +7,4 @@ keras-tuner==1.4.7
 openpyxl==3.1.5
 seaborn==0.13.2
 h5py==3.8.0
+protobuf==3.19.6
